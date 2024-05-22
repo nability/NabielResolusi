@@ -1,1 +1,5 @@
-letsgo
+target malam ini
+- membuat tampilan fitur
+- mempercantik tampilan homepage
+- belajar vcs
+- tugas matdisk
