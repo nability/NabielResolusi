@@ -3,3 +3,6 @@ target malam ini
 - mempercantik tampilan homepage
 - belajar vcs
 - tugas matdisk
+
+- nabiel jangan lupa rapihin proposal
+
